@@ -3,4 +3,4 @@ This is an example that shows that our program works
 
 created by:
 Hadas Barel
-Daniel Tal 
+Daniel Tal
