@@ -1,6 +1,6 @@
 # JavaCryptoExercise
 
-A project in    course
+A project in Building Secure Applications course at Holon Institute of Technology (HIT)
 
 ## Part
 - Er
